@@ -32,3 +32,5 @@ def score_game(game_core_v1) -> int:
     return(score)
 
 score_game(game_core_v1)
+
+# добавили комментарий
